@@ -1,9 +1,2 @@
-from dotenv import load_dotenv
-import os
-
-# Load environment variables from the .env file
-load_dotenv()
-
-# Fetch the API token
-API_TOKEN = os.getenv("API_TOKEN")
+API_TOKEN=687da1dc58fbed87178846176943a52ca8503ffb
 
