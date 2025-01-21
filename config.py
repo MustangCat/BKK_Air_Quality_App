@@ -5,4 +5,5 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Fetch API token from environment variables
-API_TOKEN = os.getenv("API_TOKEN")
+API_TOKEN = 687da1dc58fbed87178846176943a52ca8503ffb
+
